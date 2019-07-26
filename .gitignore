@@ -53,3 +53,4 @@ dkms.conf
 *.db
 *.opendb
 temp
+*.suo
